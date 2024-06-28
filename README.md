@@ -6,5 +6,7 @@ After multiple instances of "bonuses" being left off of checks, I wrote a progra
 
 I modified it so another tech who writes python could use it, and I thought I would put this on my github so it can potentially help others as well.
 
+This is designed for beginner python users to fill in the blanks and to be run in the terminal. I expect to continue to revise this and/or add additional calculators.
+
 
 
